@@ -1,2 +1,1 @@
-# IBM-Data-Science-Professional-certificate
-Here are all the assignments and programming tasks in this Certification
+This is the Project for recommending movies in online streaming platforms and all this project is doen in jupyter lab with IBM cloud and Watson studio.
